@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.douyu.tv.tv_tabindicatorviewpager.SmoothHorizontalScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/shScrollView"
+    android:scrollbars="none"
+    android:fadingEdge="none"
+    android:overScrollMode="never"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/tabcontint"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+</com.douyu.tv.tv_tabindicatorviewpager.SmoothHorizontalScrollView>

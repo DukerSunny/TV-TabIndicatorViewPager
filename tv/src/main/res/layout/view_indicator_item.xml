@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/px72"
+    android:paddingLeft="@dimen/px22"
+    android:paddingRight="@dimen/px22"
+    android:duplicateParentState="false">
+
+    <TextView
+        android:id="@+id/tab_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:singleLine="true"
+        android:focusable="false"
+        android:gravity="center"
+        android:text="全部直播"
+        android:textColor="@color/live_lev_text_nomarl"
+        android:textSize="@dimen/px36"
+        android:textStyle="bold"/>
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.douyu.tv.tv_tabindicatorviewpager.indicator.TabButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/indicator_tab1"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/px72"
+    android:layout_marginLeft="@dimen/px37"
+    android:layout_marginRight="@dimen/px37"
+    android:background="@drawable/sel_indicator"
+    android:focusable="true"
+    android:gravity="center" />
