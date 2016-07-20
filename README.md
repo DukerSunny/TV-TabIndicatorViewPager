@@ -1,0 +1,5 @@
+# TV-TabIndicatorViewPager
+TV电视开发中Tab 选项卡配合Viewpager使用
+可以自行加ViewPager 
+同时自定义了ViewPager  设置标示使得焦点不会跑到下一页
+例如 现在ViewPager 在第一页，当第一页最右边的焦点获取后再按右键，如果不自定义那么焦点会跑到第二页去，如果需要去除这种效果，可以自定义看我的源码CusViewPager
